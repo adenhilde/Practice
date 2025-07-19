@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I use Arch by the way"
+echo "hello buddy"

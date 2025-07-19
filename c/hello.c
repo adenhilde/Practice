@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("I use neovim by the way");
+  printf("I use vim by the way\n");
   return 0;
 }
