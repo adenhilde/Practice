@@ -1,0 +1,42 @@
+*************************************************************************************************
+************************************     Beginning of Log    ************************************
+************************************       Log created       ************************************
+************************************ 15/06/2025 10:55:32 MST ************************************
+*************************************************************************************************
+15/06/2025 10:55:32 MST: C library header files loaded successfully
+15/06/2025 10:55:32 MST: Galaga header files loaded successfuly
+15/06/2025 10:55:32 MST: Definitions successful
+15/06/2025 10:55:32 MST: Global variables successful
+15/06/2025 10:55:32 MST: Functions loaded
+15/06/2025 10:55:32 MST: Variable initialization complete
+15/06/2025 10:55:34 MST: Game running
+15/06/2025 10:55:37 MST: Killed bug (bug_id: 32)
+15/06/2025 10:55:37 MST: Killed bug (bug_id: 34)
+15/06/2025 10:55:38 MST: Killed bug (bug_id: 29)
+15/06/2025 10:55:38 MST: Killed bug (bug_id: 30)
+15/06/2025 10:55:38 MST: Killed bug (bug_id: 31)
+15/06/2025 10:55:39 MST: Killed bug (bug_id: 33)
+15/06/2025 10:55:41 MST: Killed bug (bug_id: 28)
+15/06/2025 10:55:42 MST: Killed bug (bug_id: 35)
+15/06/2025 10:55:42 MST: Killed bug (bug_id: 36)
+15/06/2025 10:55:43 MST: Killed bug (bug_id: 38)
+15/06/2025 10:55:43 MST: Killed bug (bug_id: 39)
+15/06/2025 10:55:43 MST: Killed bug (bug_id: 41)
+15/06/2025 10:55:44 MST: Killed bug (bug_id: 49)
+15/06/2025 10:55:44 MST: Killed bug (bug_id: 40)
+15/06/2025 10:55:45 MST: Killed bug (bug_id: 53)
+15/06/2025 10:55:45 MST: Killed bug (bug_id: 54)
+15/06/2025 10:55:45 MST: Killed bug (bug_id: 55)
+15/06/2025 10:55:46 MST: Killed bug (bug_id: 50)
+15/06/2025 10:55:46 MST: Killed bug (bug_id: 52)
+15/06/2025 10:55:47 MST: Killed bug (bug_id: 37)
+15/06/2025 10:55:49 MST: Killed bug (bug_id: 51)
+15/06/2025 10:55:53 MST: Killed bug (bug_id: 64)
+15/06/2025 10:55:53 MST: Killed bug (bug_id: 65)
+15/06/2025 10:55:54 MST: Killed bug (bug_id: 57)
+15/06/2025 10:55:54 MST: Killed bug (bug_id: 56)
+15/06/2025 10:55:57 MST: End of main
+15/06/2025 10:55:57 MST: Threads rejoined
+15/06/2025 10:55:57 MST: Cleanup complete
+
+Bye bye!

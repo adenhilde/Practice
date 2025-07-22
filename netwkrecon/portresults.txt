@@ -1,0 +1,7 @@
+
+Sat Jun 14 08:02:34 PM MST 2025
+
+Sat Jun 14 08:03:39 PM MST 2025
+Port 80 on 192.168.0.8 [32mis up[0m
+Port 443 on 192.168.0.8 [32mis up[0m
+Port 554 on 192.168.0.8 [32mis up[0m

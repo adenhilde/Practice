@@ -1,0 +1,12 @@
+OBJS = main.o tempFunctions.o 
+CC = gcc
+CFLAGS = -c
+WFLAGS = -Wall
+
+messages: $(OBJS)
+	$(CC) $(WFLAGS) $(OBJS) -o main
+main.o: main.c tempFunctions.h
+	$(CC) $(CFLAGS) main.c
+tempFunctions.o: tempFunctions.c tempFunctions.h
+	$(CC) $(CFLAGS) tempFunctions.c
+

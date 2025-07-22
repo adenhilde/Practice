@@ -1,0 +1,2 @@
+msg: main.c CourseMessage.c
+	gcc main.c CourseMessage.c

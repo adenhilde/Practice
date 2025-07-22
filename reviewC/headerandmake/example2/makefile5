@@ -1,0 +1,11 @@
+OB = main.o CourseMessage.o
+COMP = gcc
+OBJFLAG = -c
+WARNINGSFLAG = -Wall
+messages: $(OB)
+	$(COMP) $(WARNINGSFLAG) $(OB) -o messages
+main.o: main.c CourseMessage.h
+	$(COMP) $(OBJFLAG) main.c
+CourseMessage.o: CourseMessage.c CourseMessage.h
+	$(COMP) $(OBJFLAG) CourseMessage.c
+

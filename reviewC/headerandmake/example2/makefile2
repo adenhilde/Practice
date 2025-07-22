@@ -1,0 +1,2 @@
+prog: main.o CourseMessage.o
+	gcc main.o CourseMessage.o -o prog

@@ -1,0 +1,11 @@
+OBJS = main.o CourseMessage.o 
+CC= gcc 
+CFLAGS = -c 
+WFLAGS = -Wall 
+
+messages: $(OBJS)
+	$(CC) $(WFLAGS) $(OBJS) -o messages 
+main.o: main.c CourseMessage.h
+	$(CC) $(CFLAGS) main.c 
+CourseMessage.o: CourseMessage.c CourseMessage.h
+	$(CC) $(CFLAGS) CourseMessage.c

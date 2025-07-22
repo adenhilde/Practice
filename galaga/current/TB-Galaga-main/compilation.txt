@@ -1,0 +1,17 @@
+To compile this bad larry, run the following:
+
+gcc main.c player.c input.c bug.c bullet.c enemyBullet.c log.c Score.c -o game -lpthread
+
+or:
+
+make game
+
+
+Galaga!
+
+This is the classic arcade game Galaga but now in your console. You use the
+arrow keys to move your player '^' and press space to fire a bullet. Try to hit
+as many bugs as possible and avoid their drop attacks and their bullets.
+Nice and simple, right? Harder than it looks. Aim for that high score and have
+fun!
+

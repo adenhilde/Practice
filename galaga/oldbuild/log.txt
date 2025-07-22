@@ -1,0 +1,25 @@
+*************************************************************************************************
+************************************     Beginning of Log    ************************************
+************************************       Log created       ************************************
+************************************ 01/12/2024 23:27:15 MST ************************************
+*************************************************************************************************
+01/12/2024 23:27:15 MST: C library header files loaded successfully
+01/12/2024 23:27:15 MST: Galaga header files loaded successfuly
+01/12/2024 23:27:15 MST: Definitions successful
+01/12/2024 23:27:15 MST: Global variables successful
+01/12/2024 23:27:15 MST: Functions loaded
+01/12/2024 23:27:15 MST: Variable initialization complete
+01/12/2024 23:27:18 MST: Game running
+01/12/2024 23:27:21 MST: Killed bug (bug_id: 66)
+01/12/2024 23:27:21 MST: Killed bug (bug_id: 65)
+01/12/2024 23:27:21 MST: Killed bug (bug_id: 74)
+01/12/2024 23:27:21 MST: Killed bug (bug_id: 63)
+01/12/2024 23:27:21 MST: Killed bug (bug_id: 76)
+01/12/2024 23:27:22 MST: Killed bug (bug_id: 64)
+01/12/2024 23:27:22 MST: Killed bug (bug_id: 70)
+01/12/2024 23:27:23 MST: Killed bug (bug_id: 72)
+01/12/2024 23:27:34 MST: End of main
+01/12/2024 23:27:34 MST: Threads rejoined
+01/12/2024 23:27:34 MST: Cleanup complete
+
+Bye bye!

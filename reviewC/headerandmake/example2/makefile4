@@ -1,0 +1,10 @@
+messages: main.o CourseMessage.o
+	gcc main.o CourseMessage.o -o messages
+main.o: main.c CourseMessage.h
+	gcc -c main.c
+CourseMessage.o: CourseMessage.c CourseMessage.h 
+	gcc -c CourseMessage.c
+
+clean:
+	rm -i *.o messages
+
